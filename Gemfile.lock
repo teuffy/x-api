@@ -40,7 +40,7 @@ GEM
       tilt
     powerpack (0.1.1)
     psych (2.0.15)
-    puma (2.15.3)
+    puma (3.12.6)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -98,7 +98,7 @@ DEPENDENCIES
   org-ruby
   petroglyph (= 0.0.7)
   psych
-  puma (~> 2.7)
+  puma (~> 3.12)
   rack (~> 1.4)
   rack-test (~> 0.6)
   rake (~> 10.4)
